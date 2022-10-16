@@ -20,7 +20,7 @@ print(elementnummer)
 
 fibo_even = []
 
-for idx in range(0,31):
+for idx in range(0,32):
     if Fibonacci[idx]%2 == 0:
         fibo_even.append(Fibonacci[idx])
         

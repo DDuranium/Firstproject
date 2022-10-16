@@ -5,3 +5,6 @@ Created on Sun Oct 16 13:31:53 2022
 @author: NA
 """
 
+x = 3524578/2
+
+print(x)
