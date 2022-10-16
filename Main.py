@@ -1,4 +1,4 @@
-print("Dinesh is cool")
+print("Dinesh is cool en gijs ook")
 
 numbers = [11, 2, 3, 6, 7, 8]
 
@@ -10,3 +10,4 @@ def sum(array_of_numbers):
     return sum
 
 print(sum(numbers))
+
