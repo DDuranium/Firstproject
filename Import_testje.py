@@ -20,5 +20,7 @@
 
 
 # Open a file: text
-text = open('numbers.txt', mode='r')
+import pandas as pd
 
+df = pd.read_csv (r'C:\Users\NA\OneDrive\PyCharmProjects\Firstproject\username.csv')
+print (df)
