@@ -17,3 +17,6 @@ totaal = somvijf+somdrie
 print(drietjes)
 print(vijfjes)
 print(totaal)
+
+
+
